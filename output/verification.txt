@@ -1,0 +1,5 @@
+PASS: FFprobe: 25.000 seconds, 1080x1920, H.264, yuv420p, 30 fps, 750 frames, no audio.
+File size: 774680 bytes (0.775 MB).
+PASS: full FFmpeg decode completed with exit code 0 and no errors.
+PASS: six-scene contact sheet visually inspected; no text clipping.
+Source image makeup_brushes.png.png: absent. Original illustrations used.
