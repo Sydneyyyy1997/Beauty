@@ -1,0 +1,18 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,DejaVu Sans,49,&H00FFFFFF,&H000000FF,&H0020252B,&H0020252B,0,0,0,0,100,100,0,0,3,14,0,2,90,90,285,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,00:00:00.00,00:00:03.00,Default,,0,0,0,,What do you hate most\Nabout Fenty Beauty?
+Dialogue: 0,00:00:03.15,00:00:07.55,Default,,0,0,0,,It’s {\b1\c&H009FC9F0&}always sold out{\b0\c&H00FFFFFF&}!\NI can never get {\b1\c&H009FC9F0&}my shade{\b0\c&H00FFFFFF&}.
+Dialogue: 0,00:00:08.12,00:00:09.14,Default,,0,0,0,,Honestly?
+Dialogue: 0,00:00:09.30,00:00:11.14,Default,,0,0,0,,The shade range is too good.
+Dialogue: 0,00:00:11.30,00:00:12.73,Default,,0,0,0,,I can’t decide.
+Dialogue: 0,00:00:12.85,00:00:14.75,Default,,0,0,0,,So I bought two shades.
+Dialogue: 0,00:00:15.05,00:00:18.38,Default,,0,0,0,,Nothing. I love it.\NThis is my blush today.
+Dialogue: 0,00:00:18.40,00:00:21.22,Default,,0,0,0,,Oh, it looks just like\Na second skin.
+Dialogue: 0,00:00:21.25,00:00:24.00,Default,,0,0,0,,Yes, but I hate waiting\Nfor a restock!
+Dialogue: 0,00:00:24.00,00:00:25.00,Default,,0,0,0,,The only downside?\NGetting your hands on it.
